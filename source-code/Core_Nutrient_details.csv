@@ -1,0 +1,67 @@
+﻿Component,Units
+Proximates,
+"Energy with dietary fibre",kJ
+Moisture,g
+Protein,g
+Fat,g
+Ash,g
+Dietary fibre,g
+Ethanol,g
+Total sugars,g
+Added sugars,g
+Free sugars,g
+Starch,g
+"Available carbohydrate, with sugar alcohols",g
+Vitamins,
+Retinol (preformed vitamin A),ug
+Beta-carotene,ug
+Beta-carotene equivalents (provitamin A),ug
+Vitamin A retinol equivalents,ug
+Thiamin (B1),mg
+Riboflavin (B2),mg
+Niacin (B3),mg
+Pyridoxine (B6),m
+Cobalamin (B12),ug
+Niacin derived equivalents,mg
+"Folate, natural",ug
+Folic acid,ug
+Total folates,ug
+Dietary folate equivalents,ug
+Vitamin C,mg
+Cholecalciferol (D3),ug
+Ergocalciferol (D2),ug
+25-hydroxy cholecalciferol (25-OH D3),ug
+25-hydroxy ergocalciferol (25-OH D2),ug
+Vitamin D3 equivalents,ug
+Alpha tocopherol,mg
+Vitamin E,mg
+Minerals,
+Calcium (Ca),mg
+Iodine (I),ug
+Iron (Fe),mg
+Magnesium (Mg),mg
+Phosphorus (P),mg
+Potassium (K),mg
+Selenium (Se),ug
+Sodium (Na),mg
+Zinc (Zn),mg
+Fatty acids,
+Total saturated fatty acids,%T; g
+"Total monounsaturated fatty acids, equated (g)", g
+Total polyunsaturated fatty acids,%T; g
+Total long chain omega 3 fatty acids,%T; mg
+Total saturated fatty acids,%T; g
+Total monounsaturated fatty acids, g
+Linoleic acid,%T; g
+Alpha-linolenic acid,%T; g
+C20:5w3 Eicosapentaenoic ,%T; mg
+C22:5w3 Docosapentaenoic,%T; mg
+C22:6w3 Docosahexaenoic,%T; mg
+Total polyunsaturated fatty acids,%T; g
+Total long chain omega 3 fatty acids,%T; mg
+Total trans fatty acids,%T; mg
+Amino acids,
+Tryptophan,mg/g N; mg
+Other,
+Caffeine,mg
+Cholesterol,mg
